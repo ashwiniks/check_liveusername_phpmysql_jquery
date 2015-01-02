@@ -66,7 +66,7 @@ $(document).ready(function(){
     <div class="content">
     <table>
         <tr>
-            <td>&nbsp; &nbsp; Ex: <b><i>huzoorbux, phpgang or ravi</i></b><br /> <input type="text" placeholder="Username" name="username" id="username" /></td>
+            <td>&nbsp; &nbsp; Ex: <b><i>ashwini,singh</i></b><br /> <input type="text" placeholder="Username" name="username" id="username" /></td>
             <td><div class="result" id="result"></div></td>
         </tr>
     </table>
